@@ -1,0 +1,101 @@
+SUBATIX END USER LICENSE AGREEMENT (EULA)
+
+Copyright (c) 2025 Subatix
+
+Last Updated: January 2025
+
+IMPORTANT - READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Subatix for the Subatix software product, which includes computer software and may include associated media, printed materials, and online or electronic documentation ("Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. LICENSE GRANT
+
+Subject to the terms and conditions of this EULA, Subatix grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+   a) Install and use the Software on devices you own or control
+   b) Use the Software for personal or commercial purposes
+   c) Receive updates and improvements to the Software
+
+2. RESTRICTIONS
+
+You may NOT:
+
+   a) Distribute, sell, lease, rent, lend, or sublicense the Software
+   b) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software (except to the extent applicable laws specifically prohibit such restriction)
+   c) Modify, translate, or create derivative works based on the Software
+   d) Remove, alter, or obscure any proprietary notices (including copyright notices) on or in the Software
+   e) Use the Software in any way that violates applicable local, state, national, or international law
+   f) Use the Software to develop competing products or services
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software is licensed, not sold. Subatix and its licensors retain all right, title, and interest in and to the Software, including all intellectual property rights therein. This EULA does not grant you any rights to trademarks or service marks of Subatix.
+
+4. THIRD-PARTY COMPONENTS
+
+This Software incorporates open source components, including but not limited to:
+   - Visual Studio Code (MIT License)
+   - Cline (MIT License)
+   - Other open source libraries and components
+
+These third-party components are licensed under their respective open source licenses. The full text of these licenses and copyright notices can be found in the THIRD-PARTY-NOTICES.txt file included with the Software. Your use of these third-party components is governed by their respective licenses.
+
+5. ADDITIONAL TERMS AND POLICIES
+
+Your use of the Software is also governed by:
+
+   - Subatix Agent Terms of Use: https://subatix.com/terms
+   - Privacy Policy: https://subatix.com/privacy
+
+By using the Software, you agree to comply with these additional terms and policies.
+
+6. DATA COLLECTION AND PRIVACY
+
+Subatix may collect usage data and analytics to improve the Software. For details on what data is collected and how it is used, please review our Privacy Policy at https://subatix.com/privacy.
+
+7. UPDATES AND MODIFICATIONS
+
+Subatix may provide updates, patches, or upgrades to the Software. These updates may be automatically downloaded and installed. Updated versions of the Software are subject to this EULA unless a separate license agreement accompanies the update.
+
+8. TERM AND TERMINATION
+
+   a) This EULA is effective until terminated
+   b) Your rights under this EULA will terminate automatically without notice if you fail to comply with any term of this EULA
+   c) Upon termination, you must cease all use of the Software and destroy all copies in your possession
+   d) Subatix may terminate this EULA at any time with or without cause
+
+9. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. SUBATIX DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SUBATIX OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF SUBATIX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN ANY CASE, SUBATIX'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS EULA SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE.
+
+11. EXPORT RESTRICTIONS
+
+You acknowledge that the Software may be subject to export restrictions by the United States and other countries. You agree to comply with all applicable international and national laws that apply to the Software, including U.S. Export Administration Regulations.
+
+12. GOVERNING LAW
+
+This EULA shall be governed by and construed in accordance with the laws of the jurisdiction in which Subatix is established, without regard to its conflict of law provisions.
+
+13. ENTIRE AGREEMENT
+
+This EULA constitutes the entire agreement between you and Subatix regarding the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+14. SEVERABILITY
+
+If any provision of this EULA is held to be unenforceable, that provision will be removed and the remaining provisions will remain in full effect.
+
+15. CONTACT INFORMATION
+
+If you have any questions about this EULA, please contact:
+Email: contact@subatix.com
+Website: https://subatix.com
+
+---
+
+By installing or using the Software, you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms and conditions.
