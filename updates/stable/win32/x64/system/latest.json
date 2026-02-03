@@ -1,8 +1,8 @@
 {
-  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.0/SubatixSetup.exe",
-  "name": "0.3.0",
-  "version": "0.3.0",
-  "productVersion": "0.3.0",
-  "notes": "Initial Windows release with code signing",
-  "pub_date": "2026-01-23T12:00:00Z"
+  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.1/SubatixSetup.exe",
+  "name": "0.3.1",
+  "version": "0.3.1",
+  "productVersion": "0.3.1",
+  "notes": "Bug fixes and improvements.",
+  "pub_date": "2026-02-03T18:09:00Z"
 }
