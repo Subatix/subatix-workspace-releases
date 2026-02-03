@@ -1,8 +1,8 @@
 {
-  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.1/Subatix-arm64.zip",
-  "name": "0.3.1",
-  "version": "0.3.1",
-  "productVersion": "0.3.1",
+  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.2/Subatix-arm64.zip",
+  "name": "0.3.2",
+  "version": "0.3.2",
+  "productVersion": "0.3.2",
   "notes": "Bug fixes and improvements.",
-  "pub_date": "2026-02-03T19:44:00Z"
+  "pub_date": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 }
