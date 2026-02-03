@@ -1,8 +1,8 @@
 {
-  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.0/Subatix-arm64.zip",
-  "name": "0.3.0",
-  "version": "0.3.0",
-  "productVersion": "0.3.0",
-  "notes": "Updated build with latest fixes",
-  "pub_date": "2026-01-24T15:10:00Z"
+  "url": "https://github.com/Subatix/subatix-workspace-releases/releases/download/v0.3.1/Subatix-arm64.zip",
+  "name": "0.3.1",
+  "version": "0.3.1",
+  "productVersion": "0.3.1",
+  "notes": "Bug fixes and improvements.",
+  "pub_date": "2026-02-03T19:44:00Z"
 }
